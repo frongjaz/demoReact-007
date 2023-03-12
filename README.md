@@ -1,1 +1,1 @@
-this is a example for newbie for react
+this is a example for newbie for react but it is simple for beginner.
